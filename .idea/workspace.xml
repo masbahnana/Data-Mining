@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ece1a8-4b65-4368-9f50-00142a58df36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,9 +11,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/twitter_make_geojson.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/twitter_map_basic.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/twitter_map_clustered.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/twitter_map_example.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/twitter_mention_frequency.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/twitter_streaming.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/twitter_term_frequency.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/twitter_time_series.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Micro/micro_geo2kml.py">
+        <entry file="file://$PROJECT_DIR$/Pipfile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/twitter_term_frequency_graph.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -26,18 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Blogger/blogs_entities.py" />
-        <option value="$PROJECT_DIR$/Blogger/blogs_rss_get_posts.py" />
-        <option value="$PROJECT_DIR$/Blogger/blogs_wp_get_posts.py" />
-        <option value="$PROJECT_DIR$/Demos/demo_gensim.py" />
-        <option value="$PROJECT_DIR$/Demos/demo_json.py" />
-        <option value="$PROJECT_DIR$/Demos/demo_matplotlib.py" />
-        <option value="$PROJECT_DIR$/Demos/demo_networkx.py" />
-        <option value="$PROJECT_DIR$/Demos/demo_numpy.py" />
-        <option value="$PROJECT_DIR$/Demos/demo_sklearn.py" />
-        <option value="$PROJECT_DIR$/Facebook/facebook_get_friends.py" />
-        <option value="$PROJECT_DIR$/Facebook/facebook_get_my_posts.py" />
-        <option value="$PROJECT_DIR$/Facebook/facebook_get_my_posts_more_fields.py" />
         <option value="$PROJECT_DIR$/Facebook/facebook_get_page_info.py" />
         <option value="$PROJECT_DIR$/Facebook/facebook_get_page_posts.py" />
         <option value="$PROJECT_DIR$/Facebook/facebook_my_profile.py" />
@@ -59,6 +95,36 @@
         <option value="$PROJECT_DIR$/GPlus/gplus_search_example.py" />
         <option value="$PROJECT_DIR$/GPlus/gplus_search_web_gui.py" />
         <option value="$PROJECT_DIR$/Micro/micro_geo2kml.py" />
+        <option value="$PROJECT_DIR$/Micro/micro_geo_wiki.py" />
+        <option value="$PROJECT_DIR$/Micro/rdf_summarize_entity.py" />
+        <option value="$PROJECT_DIR$/Stack/stack_classification_predict_tags.py" />
+        <option value="$PROJECT_DIR$/Stack/stack_classification_prepare_dataset.py" />
+        <option value="$PROJECT_DIR$/Stack/stack_classification_save_model.py" />
+        <option value="$PROJECT_DIR$/Stack/stack_classification_user_input.py" />
+        <option value="$PROJECT_DIR$/Stack/stack_search_keyword.py" />
+        <option value="$PROJECT_DIR$/Stack/stack_search_user.py" />
+        <option value="$PROJECT_DIR$/Stack/stack_xml2json.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_client.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_cluster_users.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_conversation.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_followers_stats.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_followers_stats_numpy.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_followers_stats_set.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_get_home_timeline.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_get_user.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_get_user_timeline.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_hashtag_frequency.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_hashtag_stats.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_influence.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_make_geojson.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_map_basic.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_map_clustered.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_map_example.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_mention_frequency.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_streaming.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_term_frequency.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_time_series.py" />
+        <option value="$PROJECT_DIR$/Twitter/twitter_term_frequency_graph.py" />
       </list>
     </option>
   </component>
@@ -82,8 +148,7 @@
             </path>
             <path>
               <item name="Data-Mining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Mining" type="462c0819:PsiDirectoryNode" />
-              <item name="Micro" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -145,98 +210,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="-1" width="1360" height="768" extended-state="6" />
+    <frame x="1366" y="-1" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24734446" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25035766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49924126" visible="true" weight="0.32973805" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007587" side_tool="true" weight="0.32973805" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32973805" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985694" visible="true" weight="0.3290653" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50143063" side_tool="true" visible="true" weight="0.3290653" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Blogger/blogs_entities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <element signature="e#27#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blogger/blogs_wp_get_posts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demos/demo_json.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demos/demo_matplotlib.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blogger/blogs_rss_get_posts.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blogger/blogs_blogger_get_posts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demos/demo_networkx.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demos/demo_numpy.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demos/demo_sklearn.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demos/demo_gensim.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/facebook_get_my_posts.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/facebook_get_my_posts_more_fields.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#46#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/facebook_get_page_posts.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/facebook_my_profile.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/facebook_post_time_stats.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Facebook/facebook_posts_wordcloud.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -325,6 +322,125 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Micro/micro_geo2kml.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Micro/micro_geo_wiki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Micro/rdf_summarize_entity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/stack_classification_prepare_dataset.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/stack_classification_save_model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/stack_classification_user_input.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/stack_search_keyword.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/stack_search_user.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/stack_xml2json.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/stack_classification_predict_tags.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_client.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_cluster_users.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_conversation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_followers_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_followers_stats_numpy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_followers_stats_set.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_get_home_timeline.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_get_user.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_get_user_timeline.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_hashtag_frequency.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_hashtag_stats.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_influence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_make_geojson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_map_basic.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_map_clustered.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_map_example.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_mention_frequency.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_streaming.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_term_frequency.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_time_series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#32#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/twitter_term_frequency_graph.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
